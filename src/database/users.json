@@ -1,0 +1,22 @@
+[
+  {
+    "id": "57d6fc8d-c8d0-4541-8e2f-ded8d6caa07a",
+    "firstname": "David",
+    "lastname": "Alaba",
+    "email": "davidalaba@gmail.com",
+    "gender": "male",
+    "password": "f0c309699a7b27698ef37d6945a79bd25da171fc173cbfd544b3ae8604f67e722944f06ff8033fd037e74b10f2c38b357215998e705761c1e86f40989876d485.9d123408c3702265",
+    "createdAt": "2023-01-26T15:15:57.171Z",
+    "updatedAt": "2023-01-26T15:15:57.171Z"
+  },
+  {
+    "id": "01437fb3-d418-4099-9d0a-9dfa815354fa",
+    "firstname": "Kennedy",
+    "lastname": "User2",
+    "email": "newuser@gmail.com",
+    "gender": "male",
+    "password": "f4f6efd4771fc719c9a336c81337ece2633d479708f015bf8e41c69d33a309752dcc770d2280049fd15a7baa0897753c8597c9a4d1945338e9ad0b20aa2dafa7.f056297dbbbf1cee",
+    "createdAt": "2023-01-26T15:28:25.568Z",
+    "updatedAt": "2023-01-26T15:28:25.568Z"
+  }
+]

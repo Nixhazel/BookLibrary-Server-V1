@@ -1,0 +1,41 @@
+[
+  {
+    "id": "a2191b00-72ae-4b2a-8ec0-7d16470b320e",
+    "userId": "200cc215-16cf-4973-9f5e-79d69d6819b6",
+    "title": "An Updated Book",
+    "author": "Armando Lucas Correa",
+    "datePublished": "2020-03-20T12:23:38.842Z",
+    "description": "A novel",
+    "pageCount": 34,
+    "genre": "autobiography",
+    "publisher": "Amazon",
+    "createdAt": "2023-01-26T15:38:22.568Z",
+    "updatedAt": "2023-01-26T15:45:33.220Z"
+  },
+  {
+    "id": "938e311d-551f-4e2d-b8b7-2ca465f81ccc",
+    "userId": "200cc215-16cf-4973-9f5e-79d69d6819b6",
+    "title": "A New Book",
+    "author": "Armando Lucas Correa",
+    "datePublished": "2020-03-20T12:23:38.842Z",
+    "description": "A novel",
+    "pageCount": 34,
+    "genre": "autobiography",
+    "publisher": "Amazon",
+    "createdAt": "2023-01-26T15:44:45.243Z",
+    "updatedAt": "2023-01-26T15:44:45.243Z"
+  },
+  {
+    "id": "564e0551-f48f-44a6-b601-dff857d208d3",
+    "userId": "200cc215-16cf-4973-9f5e-79d69d6819b6",
+    "title": "Atomic Habit",
+    "author": "Armando Lucas Correa",
+    "datePublished": "2020-03-20T12:23:38.842Z",
+    "description": "A novel",
+    "pageCount": 34,
+    "genre": "autobiography",
+    "publisher": "Amazon",
+    "createdAt": "2023-01-26T15:51:00.385Z",
+    "updatedAt": "2023-01-26T15:51:00.385Z"
+  }
+]
